@@ -1,1 +1,1 @@
-# Automatic-Document-Scanner-using-OpenCv
+# *Automatic-Document-Scanner-using-OpenCv*
